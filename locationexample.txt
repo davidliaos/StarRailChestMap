@@ -1,0 +1,2 @@
+Format for locations
+Name Seed Hostile(Y/N) Amount
